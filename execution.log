@@ -479,3 +479,10 @@ Closing org.springframework.context.support.GenericApplicationContext@479d31f3: 
 2022-05-15 13:50:10 Test Execution Started 
 2022-05-15 13:50:11 Test Execution Completed 
 2022-05-15 13:50:11 Closing org.springframework.context.support.GenericApplicationContext@6c80d78a: startup date [Sun May 15 13:50:05 CEST 2022]; root of context hierarchy
+2022-05-16 17:17:43 Test Execution Started 
+2022-05-16 17:17:47 Test Execution Completed 
+2022-05-16 17:17:48 Test Execution Started 
+2022-05-16 17:17:49 Test Execution Completed 
+2022-05-16 17:17:49 Test Execution Started 
+2022-05-16 17:17:50 Test Execution Completed 
+2022-05-16 17:17:50 Closing org.springframework.context.support.GenericApplicationContext@5fdcaa40: startup date [Mon May 16 17:17:43 CEST 2022]; root of context hierarchy
